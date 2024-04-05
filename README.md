@@ -24,6 +24,11 @@ bash run_build.sh
 ./server/build/Server <port> <max_threads> <max_file_size> <save_path>
 ```
 
+Пример:
+```
+./server/build/Server 3200 5 202400 ./
+```
+
 ## Использование
 
 ### Сервер
